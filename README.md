@@ -39,7 +39,7 @@ different devices. As part of future enhancements, explore the possibility of ac
 simultaneously, expanding the game's social and competitive aspects.<br>
 
 # **Team members**
-1.Mahdi Hasan Qurishi (Reg: 2021331090) - @Enigmah-00 <br>
+1.Mahdi Hasan Qurishi (Reg: 2021331090) - @Mahdi Hasan Qurishi <br>
 2.Zubayer Hossain Uday (Reg: 2021331002) - @ZH-Uday <br>
 3.Shafiuzzaman Akash (Reg: 2021331034) - @ZamanAkash <br>
 
