@@ -1,5 +1,5 @@
 
-#**Dot Connector** <br>
+#Dot Connector
 <br>
 ##**Description:** <br>
 Dot Connector is a mind-bending and captivating puzzle game designed to be played between two opponents. 
