@@ -1,7 +1,7 @@
 
-#Dot Connector
+# Dot Connector
 <br>
-##**Description:** <br>
+## Description: 
 Dot Connector is a mind-bending and captivating puzzle game designed to be played between two opponents. 
 It challenges their intellect, patience, and logical abilities. Each opponent is presented with a screen filled with 
 dots, and their objective is to strategically connect the dots, create square cycles, and dominate the board.
