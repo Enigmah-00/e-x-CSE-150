@@ -1,5 +1,5 @@
 
-# Dot Connector
+# **Dot Connector**
 ## **Description:** 
 Dot Connector is a mind-bending and captivating puzzle game designed to be played between two opponents. 
 It challenges their intellect, patience, and logical abilities. Each opponent is presented with a screen filled with 
@@ -36,4 +36,10 @@ cross-platform compatibility. Implement a dynamic scoring system based on square
 rewarding gameplay experience. Enhance the game's visual appeal through an intuitive interface. The ultimate goal is to 
 provide a seamless and competitive gaming experience, fostering strategic thinking and healthy competition across 
 different devices. As part of future enhancements, explore the possibility of accommodating more than two players 
-simultaneously, expanding the game's social and competitive aspects.
+simultaneously, expanding the game's social and competitive aspects.<br>
+
+# **Team members**
+1.Mahdi Hasan Qurishi (Reg: 2021331090) - @Enigmah-00 <br>
+2.Zubayer Hossain Uday (Reg: 2021331002) - @ZH-Uday <br>
+3.Shafiuzzaman Akash (Reg: 2021331034) - @ZamanAkash <br>
+
