@@ -38,6 +38,17 @@ provide a seamless and competitive gaming experience, fostering strategic thinki
 different devices. As part of future enhancements, explore the possibility of accommodating more than two players 
 simultaneously, expanding the game's social and competitive aspects.<br>
 
+# **Installation Guide:**
+
+1.Install sfml: <br>
+sudo apt-get install libsfml-dev <br>
+
+2.To compile the project:<br>
+g++ -c *.cpp; g++ main.o Board.o Box.o -o sfml.app -lsfml-graphics -lsfml-window -lsfml-system;<br>
+
+3.To run the app:<br>
+ ./sfml.app <br>
+
 # **Team members**
 1.Mahdi Hasan Qurishi (Reg: 2021331090) - @Enigmah-00 <br>
 2.Zubayer Hossain Uday (Reg: 2021331002) - @ZH-Uday <br>
