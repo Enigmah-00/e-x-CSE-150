@@ -10,7 +10,7 @@ void welcome();
 Color color = Color(255,185,33);
 int main() {
 
-	RenderWindow window(VideoMode(screen_size, screen_size), " Dots Connector ", Style::Default | Style::Resize);
+	RenderWindow window(VideoMode(screen_size, screen_size), " Dot Connector ", Style::Default | Style::Resize);
 	window.setPosition(Vector2i(1000, 100));
 	window.setFramerateLimit(144);
 	int edge{}; //Size of the game
